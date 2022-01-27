@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+.container {
+  border: 1px dashed black;
+}
+
+.box {
+  /* box-sizing: border-box; */
+  display: inline-block;
+  height: 150px;
+  width: 33%;
+  background-color: tomato;
+  padding: 10px;
+  /* margin: 20px; */
+  border: 5px solid dodgerblue;
+}
