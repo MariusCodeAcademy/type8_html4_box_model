@@ -1,0 +1,29 @@
+main > .logo {
+  /* color: dodgerblue; */
+}
+
+.main-subtitle {
+  color: dodgerblue;
+}
+
+.text {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*  nusitaikyti ir el su 2 klasem */
+.text.text-special {
+  font-size: 30px;
+}
+
+/*  class ir id */
+.item.it1 {
+  color: blue;
+}
+#item {
+  color: tomato;
+}
+ul.main-list li.item {
+  color: white;
+  background-color: black;
+}
