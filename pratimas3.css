@@ -1,0 +1,47 @@
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.top-subtitle {
+  font-weight: normal;
+  color: rgb(75, 75, 75);
+  margin-bottom: 0;
+}
+
+.main-title {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.main-title span {
+  color: rgb(75, 75, 75);
+}
+.red {
+  color: tomato;
+  font-weight: bold;
+}
+
+.title {
+  text-transform: uppercase;
+  font-size: 19px;
+}
+
+.title-red {
+  font-size: 17px;
+  color: tomato;
+}
+/* galima  */
+li,
+p {
+  font-family: monospace;
+}
+
+.hr {
+  height: 4px;
+  background-color: black;
+}
+
+hr {
+  height: 4px;
+  background-color: black;
+}
